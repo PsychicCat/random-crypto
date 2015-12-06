@@ -1,0 +1,26 @@
+{
+  "name": "random-crypto",
+  "version": "1.0.0",
+  "description": "a pseudorandom number generator using crypto.randomBytes",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PsychicCat/random-crypto.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "Brendan Telzrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PsychicCat/random-crypto/issues"
+  },
+  "homepage": "https://github.com/PsychicCat/random-crypto#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
