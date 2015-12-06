@@ -1,4 +1,4 @@
-# crypto-random
+# random-crypto
 A cryptographically secure PRNG for Node.js using crypto.randomBytes
 
 [![Build Status](https://travis-ci.org/PsychicCat/random-crypto.svg?branch=master)](https://travis-ci.org/PsychicCat/random-crypto)
