@@ -1,6 +1,6 @@
 {
   "name": "random-crypto",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a pseudorandom number generator using crypto.randomBytes",
   "main": "index.js",
   "scripts": {
